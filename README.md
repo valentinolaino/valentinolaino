@@ -5,7 +5,7 @@
 ### Estudiante de Sistemas de Información · Soluciones digitales a medida 🌟
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7B2FBE&center=true&vCenter=true&width=600&lines=Desarrollo+web;Diseño+UX;Aplicaciones;Bases+de+datos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7B2FBE&center=true&vCenter=true&width=600&lines=Desarrollo+web;Dise%C3%B1o+UX;Aplicaciones;Bases+de+datos" alt="Typing SVG" />
 </a>
 
 <br>
@@ -39,7 +39,6 @@ Me ocupo de todo el armado para que cuentes con herramientas modernas y funciona
 | 🗄️ **Desarrollo de bases de datos** | Modelado y estructura de datos ordenada y escalable |
 | 🧩 **Software personalizado** | Sistemas a medida para resolver procesos concretos |
 
-📍 **Disponibilidad:** en remoto o en persona (Concepción del Uruguay) 
 
 ---
 
@@ -56,22 +55,14 @@ Me ocupo de todo el armado para que cuentes con herramientas modernas y funciona
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Tecnologías y conocimientos
 
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-7B2FBE?style=for-the-badge&logo=javascript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-7B2FBE?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7B2FBE?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-7B2FBE?style=for-the-badge&logo=docker&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-7B2FBE?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-7B2FBE?style=for-the-badge&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-7B2FBE?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-7B2FBE?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-7B2FBE?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-7B2FBE?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+| Categoría | Tecnologías |
+|:---------:|-------------|
+| **Lenguajes** | ![Python](https://img.shields.io/badge/Python-7B2FBE?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-b%C3%A1sico-7B2FBE?style=for-the-badge&logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-7B2FBE?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-7B2FBE?style=for-the-badge&logo=css3&logoColor=white) |
+| **Desarrollo web** | ![Node.js](https://img.shields.io/badge/Node.js-7B2FBE?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-7B2FBE?style=for-the-badge&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-b%C3%A1sico-7B2FBE?style=for-the-badge&logo=react&logoColor=white) |
+| **Bases de datos** | ![SQL](https://img.shields.io/badge/SQL-7B2FBE?style=for-the-badge) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-b%C3%A1sico-7B2FBE?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Herramientas** | ![Git](https://img.shields.io/badge/Git-7B2FBE?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-7B2FBE?style=for-the-badge&logo=docker&logoColor=white) |
 
 ---
 
